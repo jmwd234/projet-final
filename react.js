@@ -1,0 +1,1 @@
+console.log("Le site de Mon École est prêt !")
